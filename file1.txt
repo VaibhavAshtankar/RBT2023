@@ -3,3 +3,5 @@ Welcome to git session.
 Update 1 is made.
 
 adding random text to verify deifferences.
+
+Toda is day3
