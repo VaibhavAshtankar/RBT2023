@@ -6,5 +6,6 @@ adding random text to verify deifferences.
 
 bug123 is fixed.
 
-bug456 is created and we want to changing some things there. lets say my team mate is updated the same file after I merged it with master branch.
+
+bug456 is created and we want to changing some things there.
 
