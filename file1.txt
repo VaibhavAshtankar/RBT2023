@@ -1,12 +1,12 @@
-Welcome to git session.
+welcome to git session.
 
-Update 1 is made.
+update 1 is made.
 
 adding random text to verify deifferences.
 
 bug123 is fixed.
 
-Master is updated.
+for CR2 line should start with small letters.
 
 bug456 is created and we want to changing some things there.
 
