@@ -10,3 +10,4 @@ for CR2 line should start with small letters.
 
 bug456 is created and we want to changing some things there.
 
+Working for stash - uncooked changes...
